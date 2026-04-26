@@ -16,7 +16,8 @@ This repository contains several mini-projects, each focusing on a specific aspe
 A handy tool for converting between various units. It demonstrates the use of `mutableStateOf`, `remember`, and custom UI components in Jetpack Compose.
 - **Key Features:** Real-time conversion, dropdown menus, and a clean UI.
 - **Screenshot:**
-  ![Unit Converter](media/UnitConverter_screenshot)
+
+  <img src="media/UnitConverter_screenshot" width="250" />
 
 ### 2. Captain Game 🏴‍☠️
 An interactive game where you take the role of a captain sailing the high seas.
