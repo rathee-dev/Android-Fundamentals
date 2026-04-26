@@ -24,7 +24,7 @@ An interactive game where you take the role of a captain sailing the high seas.
 - **Screenshots:**
   | Screenshot 1 | Screenshot 2 |
   |--------------|--------------|
-  | ![Captain Game 1](media/CaptainGame_screenshot.png) | ![Captain Game 2](media/CaptainGame_screenshot2.png) |
+  | <img src="media/CaptainGame_screenshot.png" width="250" /> | <img src="media/CaptainGame_screenshot2.png" width="250" /> |
 
 ### 3. Counter MVVM 🔢
 A classic counter application built using the **Model-View-ViewModel (MVVM)** design pattern.
@@ -32,7 +32,7 @@ A classic counter application built using the **Model-View-ViewModel (MVVM)** de
 - **Screenshots:**
   | Screenshot 1 | Screenshot 2 |
   |--------------|--------------|
-  | ![Counter 1](media/CounterMVVM_Screenshot.png) | ![Counter 2](media/CounterMVVM_scrrenshot2.png) |
+  | <img src="media/CounterMVVM_Screenshot.png" width="250" /> | <img src="media/CounterMVVM_scrrenshot2.png" width="250" /> |
 
 ### 4. Game Score Keeper 🏀
 A simple app to keep track of scores during a game.
@@ -40,13 +40,14 @@ A simple app to keep track of scores during a game.
 - **Screenshots:**
   | Screenshot 1 | Screenshot 2 |
   |--------------|--------------|
-  | ![Score Keeper 1](media/GameScoreKepper_screenshot.png) | ![Score Keeper 2](media/GameScoreKeeper_screenshot2.png) |
+  | <img src="media/GameScoreKepper_screenshot.png" width="250" /> | <img src="media/GameScoreKeeper_screenshot2.png" width="250" /> |
 
 ### 5. Location App 📍
 Demonstrates how to access and display the user's current location.
 - **Key Features:** Permission handling, Fused Location Provider.
 - **Screenshot:**
-  ![Location App](media/LocationApp_screenshot.png)
+
+<img src="media/LocationApp_screenshot.png" width="300" alt="Location App" />
 
 ### 6. Navigation Test 🧭
 Explores the Jetpack Compose Navigation component to move between different screens.
@@ -54,7 +55,7 @@ Explores the Jetpack Compose Navigation component to move between different scre
 - **Screenshots:**
   | Screenshot 1 | Screenshot 2 |
   |--------------|--------------|
-  | ![Navigation 1](media/NavigationTest_screenshot.png) | ![Navigation 2](media/NavigationTest_screenshot2.png) |
+  | <img src="media/NavigationTest_screenshot.png" width="250" /> | <img src="media/NavigationTest_screenshot2.png" width="250" /> |
 
 ---
 
